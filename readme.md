@@ -24,7 +24,6 @@ For building binaries for linux and windows, run build.sh script.
 
 ## Binaries
 
-You can donwload latest binaries:
-- [Windows](binaries/windows/timeit.exe)
-- [Linux](binaries/linux/timeit)
+You can donwload binaries frome the relase page:
 
+[Latest release](https://github.com/simulot/timeit/releases/latest)
